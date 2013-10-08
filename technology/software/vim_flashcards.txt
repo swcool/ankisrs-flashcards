@@ -1,3 +1,4 @@
+f{char} ";" ","; find char in current line. forward repeat, reverse; Basic
 Move cursor down one line	j	Basic
 Move cursor up one line	k	Basic
 Move cursor left one character	h	Basic
